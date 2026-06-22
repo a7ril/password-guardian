@@ -21,7 +21,7 @@ Python 3, and the colorama library for colored terminal output. The password gen
 Clone the repository, install the dependency, and run the program:
 
 ```bash
-git clone https://github.com/your-username/password-guardian.git
+git clone https://github.com/a7ril/password-guardian.git
 cd password-guardian
 pip install colorama
 python main.py
